@@ -1,0 +1,67 @@
+.main{
+
+width: 100%;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.alltotal{
+background-color:rgb(238, 238, 238) ;
+width: 24rem;
+height: 30rem;
+border-radius: 10px;
+}
+#whforinput{
+    width: 22.5rem;
+    height: 3.5rem;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    font-size: 24px;
+
+}
+#startbg{
+    background-color: rgba(0, 0, 0, 0.712);
+    width: 24rem;
+    height: 5rem;
+    border-radius : 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.forboxinoneline{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+}
+
+
+.button{
+    width: 4rem;
+    height:4rem;
+    font-weight: bold;
+    font-size: 24px;
+    border: .1px solid rgba(0, 0, 0, 0.247); 
+    border-radius: 10px;
+}
+.buttonone{
+    width: 4rem;
+    height: 4rem;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(218, 145, 10);
+    border: 0px;
+    font-size: 24px;
+    border: .1px solid rgba(0, 0, 0, 0.247); 
+    border-radius: 10px;
+}
+.buttonac{
+    width: 8.5rem;
+    height: 3rem;
+    font-weight: bold;
+    border: .1px solid rgba(0, 0, 0, 0.247); 
+    font-size: 24px;
+    border-radius: 10px;
+}
